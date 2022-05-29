@@ -5,3 +5,5 @@ it's a ***repository*** where I can keep track of my observations and questions 
 ## Code 401 - Advanced Software Development
 
 [TDD](./tdd/tdd.md)
+
+[Command Line](./commandline/cl.md)

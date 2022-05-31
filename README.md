@@ -7,3 +7,5 @@ it's a ***repository*** where I can keep track of my observations and questions 
 [TDD](./tdd/tdd.md)
 
 [Command Line](./commandline/cl.md)
+
+[SQL](./sql/sql.md)

@@ -8,6 +8,14 @@ it's a ***repository*** where I can keep track of my observations and questions 
 
 [Command Line](./commandline/cl.md)
 
+ sql
 [Sql Notes](./sql/sqlNote.md)
 
 [Exercise Sql](./sql/ExerciseSql.md)
+
+
+[Express-REST-API](./Express-Routing-Middlewares/Class02.md)
+
+[linked list](./Linked%20Lists/Linked-Lists.md)
+ main
+

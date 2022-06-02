@@ -1,3 +1,6 @@
+# [ExerciseSql](./ExerciseSql.md)
+
+
 # ` Basic SQL`
 
 ``` 

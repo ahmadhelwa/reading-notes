@@ -11,3 +11,5 @@ it's a ***repository*** where I can keep track of my observations and questions 
 [SQL](./sql/sql.md)
 
 [Express-REST-API](./Express-Routing-Middlewares/Class02.md)
+
+[linked list](./Linked%20Lists/Linked-Lists.md)

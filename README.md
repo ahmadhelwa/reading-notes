@@ -18,4 +18,4 @@ it's a ***repository*** where I can keep track of my observations and questions 
 
 [linked list](./Linked%20Lists/Linked-Lists.md)
  
-
+[sequelize](./sequelize/sequelize.md)
